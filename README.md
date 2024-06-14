@@ -9,7 +9,6 @@ This project generates a collaborative story using multiple language models (LLM
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction

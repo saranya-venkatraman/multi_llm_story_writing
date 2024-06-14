@@ -1,0 +1,10 @@
+pandas==2.0.1
+numpy==1.24.3
+argparse==1.4.0
+logging==0.5.1.2
+tqdm==4.65.0
+vllm==0.1.1
+hf-olmo==0.2.1
+torch==2.0.1
+nltk==3.8.1
+transformers==4.29.2

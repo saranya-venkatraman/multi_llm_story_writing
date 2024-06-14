@@ -27,7 +27,7 @@ This project aims to create collaborative stories by leveraging various LLMs in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/.git  ## Not linked to github yet for anonimity
+   git clone https://github.com/.git  ## Not linked to github yet for anonymity
    ```
 
 2. Navigate to the project directory:
@@ -75,5 +75,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any questions or issues, please contact:
 
-- Email: # Deleted for anonimity
-- GitHub: # Deleted for anonimity
+- Email: # Deleted for anonymity
+- GitHub: # Deleted for anonymity

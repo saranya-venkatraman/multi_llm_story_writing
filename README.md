@@ -50,7 +50,7 @@ This project aims to create collaborative stories by leveraging various LLMs in 
 To run the story generation script, use the following example command:
 
 ```bash
-python your_script.py --author_num 1 --start 0 --end 100 --n 10 --total_authors 5 --llm llama
+python write_middle_parts.py --author_num 1 --start 0 --end 100 --n 10 --total_authors 5 --llm llama
 ```
 
 - `author_num`: The order of this LLM or part of the story being written.

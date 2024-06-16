@@ -75,5 +75,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any questions or issues, please contact:
 
-- Email: # Deleted for anonymity
-- GitHub: # Deleted for anonymity
+- Email: saranyav@psu.edu

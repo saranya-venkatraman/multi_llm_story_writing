@@ -1,4 +1,14 @@
-# Multi-Author Story Generation
+# CollabStory: Multi-Author Story Generation
+
+This codebase is part of the research presented in the paper: **[CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)**  
+
+# 📚 Link to CollabStory Dataset
+
+This dataset generated using this code can be found here: **[Dataset Link: CollabStory](https://huggingface.co/datasets/saranya132/CollabStory)**
+
+## 🗂️ Dataset Overview
+
+CollabStory is a dataset of **machine-generated creative stories generated collaboratively** using up to 5 different Large Language Models (LLMs): Gemma, Olmo, Orca, Llama and Mistral. The dataset includes stories generated using single or multiple LLMs, alongside human-written stories from the WritingPrompts dataset. Details about data collection and prompts for each part can be found in the original paper (linked above).
 
 This project generates a collaborative story using multiple language models (LLMs) in sequence. Each LLM generates a part of the story, building upon the previous parts.
 
@@ -8,8 +18,7 @@ This project generates a collaborative story using multiple language models (LLM
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Citation](#citation)
 
 ## Introduction
 
@@ -60,19 +69,11 @@ python write_middle_parts.py --author_num 1 --start 0 --end 100 --n 10 --total_a
 - `total_authors`: Total number of authors contributing to the story.
 - `llm`: The LLM being used to generate the story (e.g., `llama`, `mistral`,`gemma`, `olmo`, `orca`).
 
-## Contributing
 
-Contributions are welcome! Please follow these steps to contribute:
+## Citation
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+If you use this dataset, please cite our paper:
+
+> Venkatraman, S., Tripto, N. I., & Lee, D. (2024). *CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis*. arXiv preprint [arXiv:2406.12665](https://arxiv.org/abs/2406.12665).
 
 
-## Contact
-
-For any questions or issues, please contact:
-
-- Email: removed for anonymity

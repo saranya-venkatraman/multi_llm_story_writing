@@ -1,6 +1,6 @@
 # CollabStory: Multi-Author Story Generation
 
-This codebase is part of the research presented in the paper: **[CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)**  
+This repository includes all the scrips used to generate the dataset presented in the paper: **[CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis](https://arxiv.org/abs/2406.12665)**  
 
 # 📚 Link to CollabStory Dataset
 

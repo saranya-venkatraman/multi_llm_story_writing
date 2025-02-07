@@ -74,6 +74,12 @@ python write_middle_parts.py --author_num 1 --start 0 --end 100 --n 10 --total_a
 
 If you use this dataset, please cite our paper:
 
-> Venkatraman, S., Tripto, N. I., & Lee, D. (2024). *CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis*. arXiv preprint [arXiv:2406.12665](https://arxiv.org/abs/2406.12665).
+```bibtex
+@article{venkatraman2024collabstory,
+  title={CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis},
+  author={Venkatraman, Saranya and Tripto, Nafis Irtiza and Lee, Dongwon},
+  journal={arXiv preprint arXiv:2406.12665},
+  year={2024}
+}
 
 
